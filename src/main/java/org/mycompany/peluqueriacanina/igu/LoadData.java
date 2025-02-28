@@ -11,4 +11,6 @@ public class LoadData {
     private JTextArea textArea1;
     private JComboBox comboBox1;
     private JComboBox comboBox2;
+    private JButton limpiarButton;
+    private JButton guardarButton;
 }

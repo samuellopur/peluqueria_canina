@@ -3,14 +3,18 @@ package org.mycompany.peluqueriacanina.igu;
 import javax.swing.*;
 
 public class LoadData {
-    private JTextField textField1;
-    private JTextField textField2;
-    private JTextField textField3;
-    private JTextField textField4;
-    private JTextField textField5;
-    private JTextArea textArea1;
-    private JComboBox comboBox1;
-    private JComboBox comboBox2;
-    private JButton limpiarButton;
-    private JButton guardarButton;
+    private JTextField txtNombre;
+    private JTextField txtRaza;
+    private JTextField txtColor;
+    private JTextField txtNombreDuenio;
+    private JTextField txtCelDuenio;
+    private JTextArea txtObservaciones;
+    private JComboBox cmbAlergico;
+    private JComboBox cmbAtEspecial;
+    private JButton btnLimpiar;
+    private JButton btnGuardar;
+
+    private void createUIComponents() {
+        // TODO: place custom component creation code here
+    }
 }

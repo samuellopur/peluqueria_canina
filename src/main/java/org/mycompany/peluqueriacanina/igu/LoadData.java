@@ -2,7 +2,7 @@ package org.mycompany.peluqueriacanina.igu;
 
 import javax.swing.*;
 
-public class LoadData {
+public class LoadData extends javax.swing.JFrame {
     private JTextField txtNombre;
     private JTextField txtRaza;
     private JTextField txtColor;
